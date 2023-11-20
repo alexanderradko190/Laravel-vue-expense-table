@@ -7,7 +7,7 @@ API методы для работы с абстрактной таблицей 
 
 git clone https://github.com/alexanderradko190/Laravel-vue-expense-table.git <br>
 
-cd Laravel-vue_products
+cd Laravel-vue-expense-table
 
 Открываем backend часть проекта <br>
 cd backend-laravel
