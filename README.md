@@ -1,11 +1,11 @@
-# Laravel-vue_products
+# Laravel-vue-expense-table
 
 API методы для работы с абстрактной таблицей расходов и реализация создания, удаления и изменения сущностей на стороне frontend. Backend реализован на Laravel, frontend на vue.js +bootstrap <br>
 Данные хранятся в таблице MySQL <br>
 
 Для установки проекта необходимо выполнить следующие шаги: <br>
 
-git clone https://github.com/alexanderradko190/Laravel-vue_products.git <br>
+git clone https://github.com/alexanderradko190/Laravel-vue-expense-table.git <br>
 
 cd Laravel-vue_products
 
